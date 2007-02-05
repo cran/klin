@@ -1,0 +1,15 @@
+a60c26c01d25b06e9925dcc0015953c7 *DESCRIPTION
+8d74276df6680874c1e41045f3564da2 *NAMESPACE
+e81e356206e523e2f25fec6cb903ce82 *R/incseq.R
+794a696c028468516931b2ae8ca95ac4 *R/klin.eval.R
+5a95f84b2a5c4351de690e94c61cee99 *R/klin.klist.R
+b68c53d2d034195bb4762a2435670af4 *R/klin.ls.R
+1211af6716a772b6b7b7869d10c80e48 *R/klin.preparels.R
+2442f6c74a419c39452fc99b29a1b5bd *R/klin.solve.R
+fbfc9a7d92317150de996ee2a936ddea *man/incseq.Rd
+f3e354a24694c74f261440a46e6465d9 *man/klin-package.Rd
+94179c53f147f7c8f37d471aecceeb72 *man/klin.eval.Rd
+7c7ccd86f3b366d073c0fbfa98844547 *man/klin.klist.Rd
+a6ba5dafc2a194f7cc6aded076471d42 *man/klin.ls.Rd
+d0d30f22d9f14ecdc834a6ad61aa54bd *man/klin.preparels.Rd
+7f37e16b6ddc98df81698955308486a9 *man/klin.solve.Rd
